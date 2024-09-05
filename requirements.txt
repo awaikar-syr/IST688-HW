@@ -1,0 +1,7 @@
+streamlit   
+openai
+PyPDF2
+pyngrok
+fitz
+frontend
+ngrok
